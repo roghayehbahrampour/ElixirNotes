@@ -1,0 +1,4 @@
+ # Install Elixir on Ubuntu, for other Os go to https://elixir-lang.org/install.html#gnulinux
+  $ sudo apt-get install elixir
+  
+ 
